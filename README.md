@@ -1,6 +1,6 @@
 # DS-algo-prep
 
-Algorithms/ Problem solving
+**Algorithms/ Problem solving**
 * Arrays 
 * Strings
 * HashMap/ Dictionaries 
@@ -8,10 +8,10 @@ Algorithms/ Problem solving
 * Dynamic Prog. 
 * Trees, Trie 
 
-System Design 
+**System Design**
 * https://github.com/donnemartin/system-design-primer 
 
-Theoretical 
+**Theoretical** 
 * Django 
 * Python
 * MongoDB 
