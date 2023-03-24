@@ -5,6 +5,7 @@ Algorithms/ Problem solving
 * Strings 
 * Graphs
 * Dynamic Prog. 
+* Trees, Trie 
 
 System Design 
 * https://github.com/donnemartin/system-design-primer 
