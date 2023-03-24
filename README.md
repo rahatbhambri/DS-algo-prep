@@ -2,7 +2,8 @@
 
 Algorithms/ Problem solving
 * Arrays 
-* Strings 
+* Strings
+* HashMap/ Dictionaries 
 * Graphs
 * Dynamic Prog. 
 * Trees, Trie 
