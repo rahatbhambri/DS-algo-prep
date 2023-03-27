@@ -7,6 +7,7 @@
 * Graphs
 * Dynamic Prog. 
 * Trees, Trie 
+* 90% efficiency timewise ~O(n) most probs. 
 
 **System Design**
 * https://github.com/donnemartin/system-design-primer 
