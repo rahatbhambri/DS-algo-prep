@@ -7,7 +7,7 @@
 * Graphs
 * Dynamic Prog. 
 * Trees, Trie 
-* 90% efficiency timewise ~O(n) most probs. 
+* 90% efficiency timewise ~O(n) most probs. (Leetcode)
 
 **System Design**
 * https://github.com/donnemartin/system-design-primer 
