@@ -19,6 +19,12 @@
 * MySql 
 
 
+Useful tips for job search: 
+Apply on all - Linkedin, naukri, Instahyre 
+Updating resume
+Waking up early 
+
+
 
 
 
