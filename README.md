@@ -20,9 +20,9 @@
 
 
 Useful tips for job search: 
-Apply on all - Linkedin, naukri, Instahyre 
-Updating resume
-Waking up early 
+1) Apply on all - Linkedin, naukri, Instahyre 
+2) Updating resume
+3) Waking up early 
 
 
 
