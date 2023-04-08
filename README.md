@@ -20,9 +20,11 @@
 
 
 Useful tips for job search: 
-1) Apply on all - Linkedin, naukri, Instahyre 
-2) Updating resume
-3) Waking up early 
+1) 15-20 daily problems medium, easy from Leetcode  
+2) Apply on all - Linkedin, naukri, Instahyre 
+3) Linkedin Premium
+4) Updating resume
+5) Waking up early ~ 8-9 am 
 
 
 
