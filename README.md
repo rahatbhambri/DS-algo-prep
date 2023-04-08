@@ -19,7 +19,7 @@
 * MySql 
 
 
-Useful tips for job search: 
+**Useful tips for job search**: 
 1) 15-20 daily problems medium, easy from Leetcode  
 2) Apply on all - Linkedin, naukri, Instahyre 
 3) Linkedin Premium
