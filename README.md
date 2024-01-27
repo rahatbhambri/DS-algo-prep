@@ -34,7 +34,7 @@
 6) Waking up early ~ 8-9 am
 
 Lessons Learned - 
-Negotiate Hard , Have multiple offers , Don't get lowballed (Very Important as many companies are trying to leverage market situation) . So the CTC you accept will most likely will reamain the same for atleast a year, so negotiate accordingly. 
+Negotiate Hard , Have multiple offers , Don't get lowballed (Very Important as many companies are trying to leverage market situation) . So the CTC you accept will most likely will remain the same for atleast a year, so negotiate accordingly. 
 
 Instead of getting overwhelmed , focus on One step , One interview , One Company at a time .Learn from each interview and Grind for the next one.  
 Your 2-3 months of efforts would make a huge difference .
