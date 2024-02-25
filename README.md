@@ -6,17 +6,20 @@
  * Arrays 
  * Strings
  * HashMap/ Dictionaries 
- * Graphs
  * Dynamic Prog. 
- * Trees, Trie 
+ * Trees, Trie
+ * Graphs
+ * Bit manipulation
  * 90% efficiency timewise ~O(n) most probs. (Leetcode)
  
  2. **System Design**
  * https://github.com/donnemartin/system-design-primer
+ * System design masterclass - arpit bhayani
  * Online courses
 
  3. **Open source contributions/ projects**
-    
+  * See my repositories for some good open source projects
+
 
 **Theoretical** 
 * Frameworks - Flask / DRF/ Vue.js / Spring
@@ -26,12 +29,13 @@
 
 
 **Useful tips for job search**: 
-1) 15-20 daily problems medium, easy from Leetcode
-2) Contribute to open source/ projects
-3) Apply on all - Linkedin, naukri, Instahyre 
-4) Linkedin Premium
-5) Updating resume
-6) Waking up early ~ 8-9 am
+1) Leetcode premium - Weekly premium (5 problems)
+2) 15-20 daily problems medium, easy from Leetcode
+3) Contribute to open source/ projects
+4) Apply on all - Linkedin, naukri, Instahyre 
+5) Linkedin Premium
+6) Updating resume
+7) Waking up early ~ 8-9 am
 
 Lessons Learned - 
 Negotiate Hard , Have multiple offers , Don't get lowballed (Very Important as many companies are trying to leverage market situation) . So the CTC you accept will most likely will remain the same for atleast a year, so negotiate accordingly. 
