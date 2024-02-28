@@ -35,7 +35,8 @@
 4) Apply on all - Linkedin, naukri, Instahyre 
 5) Linkedin Premium
 6) Updating resume
-7) Waking up early ~ 8-9 am
+7) Cold calling Recruiters
+8) Waking up early ~ 8-9 am
 
 Lessons Learned - 
 Negotiate Hard , Have multiple offers , Don't get lowballed (Very Important as many companies are trying to leverage market situation) . So the CTC you accept will most likely will remain the same for atleast a year, so negotiate accordingly. 
