@@ -21,14 +21,14 @@
   * See my repositories for some good open source projects
 
 
-**Theoretical** 
+4. **Theoretical** 
 * Frameworks - Flask / DRF/ Vue.js / Spring
 * Languages - Python/  Javascript / Java 
 * Databases - MySql/ MongoDB
 * Cloud - AWS/ GCP 
 
 
-**Useful tips for job search**: 
+5. **Useful tips for job search**: 
 1) Leetcode premium - Weekly premium (5 problems)
 2) 15-20 daily problems medium, easy from Leetcode
 3) Contribute to open source/ projects
